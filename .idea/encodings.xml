@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/edu/jnu/fish/constant/ConstantUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/edu/jnu/fish/myfish/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/edu/jnu/fish/sounds/GameSoundPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/edu/jnu/fish/view/EndView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/edu/jnu/fish/view/MainView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/cn/edu/jnu/fish/view/ReadyView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_01.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_02.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_ready.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/big.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bk.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bullet.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/button_off.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/button_on.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/fly.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/middle.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/myfish.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/myplaneexplosion.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/play.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/small.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/text.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
